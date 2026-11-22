@@ -1,17 +1,17 @@
 # Farzaan Maqbool 
 
-🎓 Computer Science Engineering Student | 💻 Full Stack Developer | 🐍 Python Enthusiast
+ Computer Science Engineering Student | Full Stack Developer | Python Enthusiast
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science Engineering student passionate about building web applications, solving programming problems, and exploring data-driven and AI-powered technologies.
 
-- 💻 Interested in Full Stack Development, Backend Engineering, Data Analytics, and AI.
-- 🐍 Strong interest in Python programming and data analysis.
-- 🌐 Building responsive and functional web applications.
-- 📊 Exploring data analysis, visualization, and machine learning.
-- 📚 Currently improving my skills in Python, DSA, React, Backend Development, and SQL.
-- 🚀 Interested in building practical projects and contributing to real-world software.
+- Interested in Full Stack Development, Backend Engineering, Data Analytics, and AI.
+- Strong interest in Python programming and data analysis.
+- Building responsive and functional web applications.
+- Exploring data analysis, visualization, and machine learning.
+- Currently improving my skills in Python, DSA, React, Backend Development, and SQL.
+- Interested in building practical projects and contributing to real-world software.
 
 ## 🛠️ Technical Skills
 
@@ -56,7 +56,7 @@ I'm a Computer Science Engineering student passionate about building web applica
 - MySQL Workbench
 - Netlify
 
-## 🚀 Projects
+## Projects
 
 ### 🍽️ Wazwan Restaurant Management System
 Full-stack restaurant web application featuring online ordering, table reservations, menu management, promotional offers, and an admin dashboard.
@@ -79,11 +79,11 @@ Python-based project for analyzing student performance using numerical computati
 - Data Analysis with Python — IBM
 - Delta Full Stack Web Development — Apna College
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: [Farzaan Maqbool](https://www.linkedin.com/in/farzaan-maqbool/)
-- 🐙 GitHub: [farzaan-maqbool](https://github.com/farzaan-maqbool)
-- 📧 Email: ratherfarzan8@gmail.com
+- LinkedIn: [Farzaan Maqbool](https://www.linkedin.com/in/farzaan-maqbool/)
+- GitHub: [farzaan-maqbool](https://github.com/farzaan-maqbool)
+- Email: ratherfarzan8@gmail.com
 
 ---
 
