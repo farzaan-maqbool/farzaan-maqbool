@@ -1,82 +1,90 @@
-Farzaan Maqbool
+# Hi, I'm Farzaan Maqbool 👋
 
-Computer Science Engineering Student (7th Semester) | Full Stack Web Developer | AI Enthusiast
+🎓 Computer Science Engineering Student | 💻 Full Stack Developer | 🐍 Python Enthusiast
 
-About Me
+## 👨‍💻 About Me
 
-I am a seventh-semester B.Tech Computer Science Engineering student with a strong interest in Full Stack Web Development and Artificial Intelligence. I enjoy building scalable web applications, solving programming problems, and continuously learning modern technologies.
+I'm a Computer Science Engineering student passionate about building web applications, solving programming problems, and exploring data-driven and AI-powered technologies.
 
-Currently, I am focused on improving my skills in React, Node.js, Express.js, MongoDB, and Data Structures & Algorithms while building real-world projects.
+- 💻 Interested in Full Stack Development, Backend Engineering, Data Analytics, and AI.
+- 🐍 Strong interest in Python programming and data analysis.
+- 🌐 Building responsive and functional web applications.
+- 📊 Exploring data analysis, visualization, and machine learning.
+- 📚 Currently improving my skills in Python, DSA, React, Backend Development, and SQL.
+- 🚀 Interested in building practical projects and contributing to real-world software.
 
-Technical Skills
+## 🛠️ Technical Skills
 
-Languages
-- JavaScript
+### Languages
 - Python
+- JavaScript
 - C++
 - SQL
+- C
 
-Frontend
+### Frontend Development
 - HTML5
 - CSS3
 - JavaScript
 - React.js
 - Bootstrap
-- Tailwind CSS
 
-Backend
+### Backend Development
 - Node.js
 - Express.js
+- REST APIs
 
-Database
-- MongoDB
+### Databases
 - MySQL
+- PostgreSQL
+- Supabase
 
-Tools
-- Git
-- GitHub
+### Data Analytics & Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Excel
+- Power BI
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
+### Tools
+- Git & GitHub
 - VS Code
 - Postman
+- MySQL Workbench
+- Netlify
 
-Featured Projects
+## 🚀 Projects
 
-AI Resume Builder *(In Progress)*
-An AI-powered resume builder that generates professional resumes with multiple templates, PDF export, and AI-assisted content enhancement.
+### 🍽️ Wazwan Restaurant Management System
+Full-stack restaurant web application featuring online ordering, table reservations, menu management, promotional offers, and an admin dashboard.
 
-Tech Stack: React, Node.js, Express.js, MongoDB
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, Supabase, PostgreSQL
+
+### 🤖 AI-Powered Fraud Detection System
+Machine learning-based fraud detection system using classification algorithms and anomaly detection to analyze transaction data and identify potentially fraudulent activity.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+### 📊 Student Marks Analyzer
+Python-based project for analyzing student performance using numerical computation, statistics, ranking, and grade classification.
+
+**Technologies:** Python, NumPy
+
+## 📜 Certifications
+
+- Python for Data Science, AI & Development — IBM
+- Data Analysis with Python — IBM
+- Delta Full Stack Web Development — Apna College
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Farzaan Maqbool](https://www.linkedin.com/in/farzaan-maqbool/)
+- 🐙 GitHub: [farzaan-maqbool](https://github.com/farzaan-maqbool)
+- 📧 Email: ratherfarzan8@gmail.com
 
 ---
-Dicee Game
 
-A browser-based dice game built using JavaScript that generates random dice rolls and determines the winner using DOM manipulation.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-Smart Healthcare Appointment System *(Planned)*
-
-A full-stack healthcare platform for booking appointments, managing doctors, and maintaining patient records.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
-Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Data Structures & Algorithms
-
-GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farzaan-maqbool&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farzaan-maqbool&layout=compact&theme=default)
-
-Contact
-
-GitHub: https://github.com/farzaan-maqbool
-
-LinkedIn: https://linkedin.com/in/farzaanmaqbool
+⭐ Feel free to explore my repositories and connect with me!
