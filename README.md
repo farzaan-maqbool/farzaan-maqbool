@@ -1,4 +1,4 @@
-# Hi, I'm Farzaan Maqbool 👋
+# Farzaan Maqbool 
 
 🎓 Computer Science Engineering Student | 💻 Full Stack Developer | 🐍 Python Enthusiast
 
